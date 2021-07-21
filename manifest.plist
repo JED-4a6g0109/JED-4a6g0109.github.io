@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                   <string>https://dl.dropboxusercontent.com/s/cx5oomupqlqib5x/Foodapp.ipa?dl=0</string>
+                   <string>https://dl.dropboxusercontent.com/s/q85dl0dti00byzn/AppTest.ipa?dl=0</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.tw.Foodapp</string>
+                <string>com.kdan.AppTest</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>FoodApp</string>
+                <string>AppTest</string>
             </dict>
         </dict>
     </array>
